@@ -1,6 +1,6 @@
 ### 👋 Welcome to My GitHub Profile!
 
-I'm Michael Shuster, a 2rd year Computer Science Student passionate about Programming and Fascinated by Computers. 
+I'm Michael Shuster, a 3rd year Computer Science Student. 
 Here you'll find a collection of my projects, showcasing my skills and expertise in C,C++ and Java.
 
 
