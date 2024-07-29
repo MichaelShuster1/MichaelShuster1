@@ -1,7 +1,7 @@
 ### 👋 Welcome to My GitHub Profile!
 
 I'm Michael Shuster, a 3rd year Computer Science Student. 
-Here you'll find a collection of my projects, showcasing my skills and expertise in C,C++ and Java.
+Here you'll find a collection of my projects, showcasing my skills and expertise in C,C++,Java,JavaScript and Python.
 
 
 🌱 Currently, I'm looking for a job as a Software Developer to expand my knowledge               
